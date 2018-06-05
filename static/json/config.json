@@ -1,0 +1,11 @@
+{
+  "provinceId" : 1,
+  "provinceName" : "江苏",
+  "provinceAbbr" : "苏",
+  "cityId" : 0,
+  "systemLogo":"http://221.226.175.82:9918/images/img/2018/03/07/f9b73f3711304476948c69b0e9e0e0ce.png",
+  "systemBg":"http://221.226.175.82:9918/images/img/2018/02/01/15ed6186eb2042afb727b3c8274cfa9b.png",
+  "systemName":"江苏旅游监测客情与分析系统",
+  "systemConfigId": 1,
+  "locationAuthKey": "751ad75f9c8148fd88f1915e3d6badda"
+}

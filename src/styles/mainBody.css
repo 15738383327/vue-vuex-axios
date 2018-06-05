@@ -1,0 +1,41 @@
+.mainBody {
+  width: 100%;
+  height: 83vh;
+  /* background: #F3F4F8; */
+  padding: 10px 14px; }
+  .mainBody .containBody {
+    width: 100%;
+    display: flex;
+    height: 100%;
+    text-align: center;
+    padding: 10px 20px;
+    background: #fff; }
+    .mainBody .containBody .el-table th {
+      text-align: center;
+      background: #FAFBFF;
+      font-weight: bold; }
+    .mainBody .containBody .containLeft {
+      flex: 1; }
+    .mainBody .containBody .containRight {
+      width: 37%;
+      padding-top: 30px;
+      height: 100%; }
+      .mainBody .containBody .containRight .peoNum {
+        width: 100%;
+        height: 40px;
+        line-height: 40px;
+        display: flex;
+        margin-bottom: 20px; }
+        .mainBody .containBody .containRight .peoNum .peoFlow {
+          flex: 1; }
+          .mainBody .containBody .containRight .peoNum .peoFlow span {
+            font-size: 26px;
+            color: #708AAE; }
+          .mainBody .containBody .containRight .peoNum .peoFlow:last-child span {
+            color: #F2B77E; }
+      .mainBody .containBody .containRight .el-table {
+        height: 80%; }
+      .mainBody .containBody .containRight .el-table__body-wrapper {
+        height: 100% !important; }
+
+/*# sourceMappingURL=mainBody.css.map */
